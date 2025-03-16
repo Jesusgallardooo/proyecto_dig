@@ -1,0 +1,4 @@
+Para poder probarlo hay que crear un archivo que se llame .env e introducir en él lo siguiente:
+
+TELEGRAM_TOKEN="7753278623:AAH7aqG8iRZTkn93j_3Ab7SgDiYrbdzjERI"
+FIREBASE_CREDENTIALS="inventariobot-c1e1a-firebase-adminsdk-fbsvc-e6e97ffb6f.json"
