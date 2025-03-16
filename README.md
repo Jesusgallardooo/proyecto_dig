@@ -1,7 +1,6 @@
 # Bot de Gestión de Inventario para Telegram 🛒🤖
 
-Este es un bot de Telegram diseñado para gestionar el inventario de una tienda. Permite agregar, listar y eliminar productos de manera sencilla y eficiente. ¡Todo desde la comodidad de Telegram!
-
+Este es un bot de Telegram diseñado para gestionar el inventario de una tienda. Permite agregar, listar y eliminar productos de manera sencilla y eficiente.
 ## Funcionalidades principales 🚀
 
 El bot cuenta con los siguientes comandos:
